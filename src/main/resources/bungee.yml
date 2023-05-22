@@ -1,0 +1,8 @@
+name: NexusAmigos
+version: 1.0.0
+main: br.com.nexus.plugin.Main
+author: Nexus
+depends:
+  - NexusCore
+commands:
+  amigos:
